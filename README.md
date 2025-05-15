@@ -89,7 +89,7 @@ Ideal for home theater enthusiasts, media archivists, or anyone organizing large
 📞 Support
 ----------
 For help, feature requests, or bugs:
-📧 Email: support@example.com
+📧 Email: atulk1402@outlook.com
 🐛 GitHub Issues: https://github.com/yourname/video-format-scanner/issues
 
 📄 License
